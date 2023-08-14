@@ -1,4 +1,4 @@
-export default function Nav(){
+export default function Nav({setPage}){
   return (
     <nav>
       <button onClick={() => setPage('About')}>About Me</button>
