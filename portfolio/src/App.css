@@ -43,4 +43,14 @@
 
 .header {
   font-family: 'Courier New', Courier, monospace;
+  background-color: purple;
+  color:antiquewhite;
+}
+
+.title {
+  background-color: lightblue;
+}
+
+.titleBody {
+  background-color: lightskyblue;
 }

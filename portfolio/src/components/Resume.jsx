@@ -1,8 +1,8 @@
 export default function Resume(){
     return (
-        <nav>
-            <h1>Resume</h1>
-            <p>Insert Bio Here</p>
-        </nav>
+        <div>
+            <h1 className="title">Resume</h1>
+            <p className="titleBody">Coming Soon!</p>
+        </div>
     )
 };
