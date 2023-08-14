@@ -1,7 +1,8 @@
 export default function Header(){
     return (
-        <nav>
-            <h1>Welcome</h1>
-        </nav>
+        <header className="header">
+            <h1>Jonathan Lalu</h1>
+            <img src="path/to/your/image.jpg"></img>
+        </header>
     )
 };
