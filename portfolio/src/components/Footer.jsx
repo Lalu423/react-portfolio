@@ -1,7 +1,7 @@
 export default function Footer(){
     return (
         <nav>
-            <h1>Thank you!</h1>
+            <h2>Thank you for visiting my page!</h2>
         </nav>
     )
 };
