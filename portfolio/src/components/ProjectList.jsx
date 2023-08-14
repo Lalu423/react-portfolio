@@ -1,3 +1,5 @@
+
+
 export default function ProjectList(){
   const projs = [
     {
@@ -17,11 +19,11 @@ export default function ProjectList(){
   return (
     <section>
       <h2>Projects</h2>
-      <ul>
+      <ul id="projects">
       {
         projs.map((project, i) => (
           <li key = {i}>
-            <a href={project.link}>
+            <a className="links" href={project.link}>
               {project.name}
             </a>
           </li>
