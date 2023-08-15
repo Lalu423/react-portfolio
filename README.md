@@ -1,8 +1,39 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [Test](#test)
+- [License](#license)
+- [Questions](#questions)
 
-Currently, two official plugins are available:
+## Description
+    This app is a portfolio for my recent work in full stack development. I have displayed my three most recent projects.
+    There is an about me page, a contact page and soon to be a resume page. This app used react and exhibits my use of components. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+    There is no installation required. This is a deployed app on a live site.  
+
+## Usage
+    The purpose of this app is for potential employers or collaborators in my quest to become a full stack developer. 
+
+### Image sample
+
+<img src="https://github.com/Lalu423/text-edit-pro/blob/main/assets/text-edit-sample.jpg" height="386" width="770"/>
+
+## Contribution
+    The mini-project in the react activity has been very useful. 
+    My tutor Dennis Itua for this week was also very helpful in getting my site to be viewed in local host.  
+    I also referenced a bool titled Learning React by Alex Banks. 
+
+## Test
+    There is no current Test function.  
+
+## License
+    The MIT License
+
+## Questions
+- [GitHub](https://github.com/lalu423)
+- [Email](mailto:jonathanlalu@gmail.com)
