@@ -21,7 +21,7 @@
 
 ### Image sample
 
-<img src="https://github.com/Lalu423/text-edit-pro/blob/main/assets/text-edit-sample.jpg" height="386" width="770"/>
+<img src="https://github.com/Lalu423/react-portfolio/blob/main/public/screenshot.jpg" height="190" width="611"/>
 
 ## Contribution
     The mini-project in the react activity has been very useful. 
