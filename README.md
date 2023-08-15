@@ -1,37 +1,8 @@
-# React-portfolio
+# React + Vite
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Test](#test)
-- [License](#license)
-- [Questions](#questions)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Description
-    This is my portfolio page using react. The page features a bio, a link to my most recent projects along with a contact page and a link to my resume. The purpose of this site is for easy navigation of a collection of my work and to display my understanding of using react. 
+Currently, two official plugins are available:
 
-## Installation
-    This app is deployed and does not need anything to be installed, It can be viewed like a regular website.  
-
-## Usage
-    The purpose of this app is display my recent work that I accomplished during my full stack development courses.  
-
-### Image sample
-
-<img src="https://github.com/Lalu423/text-edit-pro/blob/main/assets/text-edit-sample.jpg" height="386" width="770"/>
-
-## Contribution
-    I mainly used the example template given in the course activity.
-    I also used some react documentation from online and a book titled "Learning React" by Alex Banks. 
-
-## Test
-    There is no current Test function.  
-
-## License
-    The MIT License
-
-## Questions
-- [GitHub](https://github.com/lalu423)
-- [Email](mailto:jonathanlalu@gmail.com)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
