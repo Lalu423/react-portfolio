@@ -1,5 +1,6 @@
 {
   "name": "portfolio",
+  "homepage": "https://lalu423.github.io/react-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +14,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.1",
+    "gh-pages": "^3.2.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
