@@ -13,7 +13,7 @@ export default function ProjectList(){
       screenshot: "http://github.com/Lalu423/react-portfolio/blob/main/portfolio/src/assets/workout-tracker.jpg"
     },
     {
-      name: "Workout Tracker",
+      name: "Hive(Gaming-App)",
       link: "https://hive1-03d1291901c2.herokuapp.com/",
       screenshot: "https://github.com/Lalu423/react-portfolio/blob/main/public/sample1.jpg"
     }
