@@ -14,7 +14,7 @@ export default function ProjectList(){
     },
     {
       name: "Workout Tracker",
-      link: "https://workout-plus-c7901a67a230.herokuapp.com/",
+      link: "https://hive1-03d1291901c2.herokuapp.com/",
       screenshot: "http://github.com/Lalu423/react-portfolio/blob/main/portfolio/src/assets/workout-tracker.jpg"
     }
   ]
